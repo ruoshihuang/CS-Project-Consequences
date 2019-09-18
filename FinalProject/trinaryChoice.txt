@@ -1,0 +1,5 @@
+moon(B), sun(A), stars(C),
+adventure(C), virtue(B), passion(A),
+lion(A), swan(B), dolphin(C),
+coffee(A), boba(C), tea(B),
+square(B), triangle(A), circle(C),

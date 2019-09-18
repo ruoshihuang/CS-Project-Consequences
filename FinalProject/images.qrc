@@ -1,0 +1,31 @@
+<RCC>
+    <qresource prefix="/Avatars">
+        <file>femaleA.png</file>
+        <file>femaleB.png</file>
+        <file>femaleC.png</file>
+        <file>femalepic.png</file>
+        <file>maleA.png</file>
+        <file>maleB.png</file>
+        <file>maleC.png</file>
+        <file>malepic.png</file>
+    </qresource>
+    <qresource prefix="/Background">
+        <file>icecreambackground.png</file>
+        <file>PinkFloral.png</file>
+    </qresource>
+    <qresource prefix="/Gifs">
+        <file>beatingheart.gif</file>
+        <file>brokenheart.gif</file>
+        <file>deathbyfire.gif</file>
+        <file>fire.gif</file>
+        <file>gametitle.gif</file>
+    </qresource>
+    <qresource prefix="/Icons">
+        <file>extinguisher.png</file>
+        <file>helpicon.png</file>
+        <file>icecreamball.png</file>
+        <file>icecreamcup.png</file>
+        <file>quiticon.png</file>
+        <file>soundicon.png</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,15 @@
+Before you go into the movie, she asks if you want any snacks, do you:
+Say no thank you +1
+Ask for popcorn to share +3
+During the movie, there is a toddler crying, do you:
+Kindly hint to the parents +2
+It’s none of your business +1
+During a very romantic scene, you notice that she is looking at you, do you:
+Look back and smile at her +3
+Pretend not to notice, play cool +1
+After the movie, you thought it was so-so, but she thought it was amazing, do you:
+Tell her your real opinion +2
+Pretend you agree with her +1
+She asks if you want to get ice cream with her, do you:
+Say yes of course! +1
+Say no thanks +1

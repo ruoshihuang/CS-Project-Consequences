@@ -1,0 +1,18 @@
+You are going on your first date, do you:
+Arrive 10 minutes early +2
+Arrive just on time +3
+You meet your date for the first time, do you greet them by:
+Shaking their hands +1
+Giving them a hug +3
+You are ordering drinks to go with the meal, do you choose:
+Red wine +2
+Champagne +2
+You’re chatting with your date, you notice something between their teeth, do you:
+Pretend to not see it +1
+Give them a small hint +1
+The fire alarm in the restaurant suddenly goes off, do you:
+Leave the food and evacuate +2
+Ignore it and continue to eat +0
+As compensation, the restaurant gives you a free movie ticket, do you choose:
+Horror Movie +1
+Romance Movie +1
